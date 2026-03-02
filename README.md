@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Chris! 👋 
+### Graphic Designer | AI Enthusiast | Tech Explorer
 
-<!--
-**yourchris/yourchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Creative%20Space&fontSize=40" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I specialize in visual storytelling and exploring the intersection of design and technology.
+- 🏛 **LokaPura.AI**: Visualizing the digital preservation of Balinese temples.
+- 🧠 **NEUROCKET**: Designing concepts for focus-based rocket control.
+- 🗣️ **BICARA**: Developing an inclusive communication bridge for the deaf and speech-impaired community.
+
+---
+
+## 🛠 Creative & Tech Stack
+### Design & Production
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![AI Art](https://img.shields.io/badge/AI_Generative-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+### Exploring Code
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 Activity & Insights
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+### 🔥 Growth Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 🤝 Let's Connect
+- 📍 Currently based in: **Indonesia** 🇮🇩
