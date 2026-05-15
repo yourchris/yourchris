@@ -1,109 +1,215 @@
-<!-- Dynamic Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Chris%20%F0%9F%8E%A8&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Graphic%20Designer%20|%20AI%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55&descSize=20" />
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Crafting+Visual+Stories+Through+Code+%E2%9C%A8;Exploring+AI+%26+Design+Intersection+%F0%9F%94%AE;Building+Inclusive+Tech+Solutions+%F0%9F%8C%8F;Always+Learning%2C+Always+Creating+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:1a1a2e,100:16213e&height=20&section=header" />
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourchris&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourchris?label=Followers&style=for-the-badge&color=667eea&logo=github" alt="Followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,30:16213e,70:0f3460,100:533483&height=260&text=✦%20CHRIS%20✦&fontSize=72&fontColor=ffd700&fontAlignY=45&desc=—%20VISUAL%20ARTIFICER%20/%20AI%20CONJURER%20—&descAlignY=68&descSize=16&descColor=c9b037&animation=blinking" />
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║           ✦  SAVE FILE LOADED  ✦   SLOT 01 — CHRIS          ║
+║                  ▶  CONTINUE ADVENTURE                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-## 🎯 About Me
+## ⚔️ CHARACTER SHEET
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  NAME    :  Chris                    ALIGN  :  Chaotic Good  │
+│  CLASS   :  Visual Artificer         GUILD  :  Open Source   │
+│  SUBCLASS:  AI Conjurer              ORIGIN :  Bali, IDN     │
+│  RANK    :  ★★★  Rookie         STATUS :  ⚡ Active           │
+├──────────────────────────────────────────────────────────────┤
+
+```
+
+</div>
+
+---
+
+## 📊 ATTRIBUTES
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    ⬡  STAT ALLOCATION                        │
+├─────────────────────┬────────────────────────────────────────┤
+│  🎨  CREATIVITY     │  ████████████████████░░  92 / 100      │
+│  🧠  AI MASTERY     │  ████████████████░░░░░░  78 / 100      │
+│  ✍️  STORYTELLING   │  ███████████████████░░░  88 / 100      │
+│  ⚡  CODE SORCERY   │  ████████████░░░░░░░░░░░░  62 / 100     │
+│  👁️  VISUAL SENSE   │  █████████████████████░  95 / 100      │
+│  🌀  ADAPTABILITY   │  ████████████████████░░  91 / 100      │
+│  🤝  PARTY SYNERGY  │  ██████████████████░░░░  84 / 100      │
+└─────────────────────┴────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📜 ACTIVE QUEST LOG
+
+```
+⚠  3 QUESTS IN PROGRESS  —  0 ABANDONED
+```
 
 <table>
-  <tr>
-    <td width="60%">
-      
-🎨 Visual Storyteller at heart
-🤖 AI & Design intersection explorer
-🇮🇩 Based in Indonesia
-🌱 Currently mastering: Generative AI & Full-Stack Development
-⚡ Fun fact: I design with code and code with design
-plain
-Copy
+<tr>
+<td width="33%" valign="top">
+
+```
+╔═══════════════════════╗
+║  🏛️  MAIN QUEST  ★★★  ║
+╠═══════════════════════╣
+║   L O K A P U R A     ║
+║        . A I          ║
+╠═══════════════════════╣
+║ Digitally preserving  ║
+║ Balinese temples with ║
+║ AI-powered visuals.   ║
+║                       ║
+║ ▓▓▓▓▓▓▓▓░░  75%      ║
+║ STATUS: Pending!  ║
+╚═══════════════════════╝
+```
+
 </td>
-<td width="40%">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourchris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="Chris's GitHub Stats" />
+<td width="33%" valign="top">
+
+```
+╔═══════════════════════╗
+║  🧠  SIDE QUEST  ★★☆  ║
+╠═══════════════════════╣
+║  N E U R O C K E T    ║
+║                       ║
+╠═══════════════════════╣
+║ Designing UI for a    ║
+║ focus-controlled      ║
+║ rocket system.        ║
+║                       ║
+║ ▓▓▓▓░░░░░░  40%      ║
+║ STATUS: 🔭 Exploring  ║
+╚═══════════════════════╝
+```
+
 </td>
-  </tr>
+<td width="33%" valign="top">
+
+```
+╔═══════════════════════╗
+║  🗣️  SIDE QUEST  ★★★  ║
+╠═══════════════════════╣
+║   B I C A R A         ║
+║                       ║
+╠═══════════════════════╣
+║ Inclusive bridge for  ║
+║ the deaf & speech-    ║
+║ impaired community.   ║
+║                       ║
+║ ▓▓▓▓▓▓░░░░  58%      ║
+║ STATUS: Pending!   ║
+╚═══════════════════════╝
+```
+
+</td>
+</tr>
 </table>
-🚀 Featured Projects
+
+---
+
+## 🎒 INVENTORY  &  EQUIPMENT
+
+**— EQUIPPED (Design Arsenal) —**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![AI Art](https://img.shields.io/badge/AI_Generative-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+
+**— LEARNING SCROLLS (Code Grimoire) —**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 BATTLE RECORDS  &  ACHIEVEMENTS
+
 <div align="center">
-Table
-🏛 LokaPura.AI	🧠 NEUROCKET	🗣️ BICARA
-Digital preservation of Balinese temples	Focus-based rocket control concepts	Inclusive communication for deaf & speech-impaired
-AI Heritage 3D	BCI Design Concept	Accessibility Mobile Social Impact
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yourchris&show_icons=true&theme=merko&include_all_commits=true&hide_border=true&bg_color=0a0a0f&title_color=ffd700&icon_color=c9b037&text_color=a8b2d8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourchris&layout=compact&theme=merko&hide_border=true&bg_color=0a0a0f&title_color=ffd700&text_color=a8b2d8" />
+
 </div>
-🛠 Tech Stack & Tools
-🎨 Design & Creative
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=001E36" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=330000" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2C2C2C" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=003D40" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge&logo=stable-diffusion&logoColor=white&labelColor=2D0A4E" />
-</p>
-💻 Development
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1E3A4C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=3D3D00" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A0D0D" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=4A2C00" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=002B4A" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=003D66" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=4A150D" />
-</p>
-🤖 AI & Data
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A2100" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A0F3D" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=4A3D00" />
-</p>
-📊 GitHub Analytics
+
 <div align="center">
-<!-- Stats Row -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourchris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourchris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourchris&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="GitHub Streak" />
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourchris&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=FF6B6B" alt="Contribution Graph" />
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourchris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourchris&theme=merko&hide_border=true&background=0a0a0f&ring=ffd700&fire=ff6b35&currStreakLabel=ffd700&sideLabels=c9b037&dates=a8b2d8)](https://git.io/streak-stats)
+
 </div>
-🌐 Let's Connect
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A0F0F" />
-  </a>
-  <a href="https://linkedin.com/in/yourchris">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=002847" />
-  </a>
-  <a href="https://dribbble.com/yourchris">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=4A1529" />
-  </a>
-  <a href="https://behance.net/yourchris">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0A1E4A" />
-  </a>
-  <a href="https://instagram.com/yourchris">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A0F1C" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" />
-</p>
-<p align="center">
-  <i>✨ "Design is not just what it looks like. Design is how it works." — Steve Jobs ✨</i>
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourchris&theme=merko&bg_color=0a0a0f&color=ffd700&line=c9b037&point=ff6b35&hide_border=true" width="95%" />
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🏅  UNLOCKED ACHIEVEMENTS                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  🌺  [Island Sage]      — Born in the land of the gods       ║
+║  🎨  [Pixel Artisan]    — Mastered the art of visual craft   ║
+║  🤖  [AI Tamer]         — Bent AI to creative will           ║
+║  🌉  [Bridge Builder]   — Designed for those unheard         ║
+║  🚀  [Dreamer]          — Dared to point rockets with minds  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏰 FIND ME IN THE WORLD
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caka.psd)
+
+<br/>
+
+![Visitor Counter](https://komarev.com/ghpvc/?username=yourchris&style=for-the-badge&color=ffd700&label=ADVENTURERS+MET&labelColor=1a1a2e)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+  ✦ ───────────────────────────────────────────── ✦
+       "The best design isn't seen. It's felt."
+  ✦ ───────────────────────────────────────────── ✦
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0a0a0f&height=80&section=footer&reversal=true" />
